@@ -1,0 +1,12 @@
+1. O foco do back-end é fazer a integração entre o front-end e os dados provenientes de API/BDs
+2. Node.js, Ruby, Python, Java, php, C#, GO
+3. Framework são um conjunto de ferramentas e bibliotecas que ajudam e facilitam o desenvolvimento de projetos
+4. API fazem a conexão entre back e front
+5. Os métodos são:
+GET - Fazem requisições e trazem dados para a página
+POST - Recebem dados do cliente e envia os dados por API
+PUT - Atualiza algum registro especifico
+DELE - Deleta algum registro especifico
+6. Ferramenta usada para testar os métodos HTTP
+7. Ferramenta/Framework que facilita o desenvolvimento de aplicações web e API
+8. Já fiz alguns curso de programação, mas faz alguns anos, estou fazendo o curso para me aprimorar e entrar de vez na area de programação
